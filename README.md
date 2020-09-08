@@ -1,2 +1,2 @@
-# Resume-CV-Design-19m20
+# Resume-CV-Design
 How to create the Resume CV Design
